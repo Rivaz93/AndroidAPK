@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simple App</string>
+    <string name="navigation_item1">Item1</string>
+    <string name="navigation_item2">Item2</string>
+    <string name="navigation_item3">Item3</string>
+    <string name="bar_item1">Settings</string>
+    <string name="drawer_opened">Open</string>
+    <string name="drawer_closed">Close</string>
+    <string name="navigation_subitem2">subItem2</string>
+    <string name="navigation_subitem1">subItem1</string>
+    <string name="drawer_text">Salut Alin</string>
+    <string name="navigation_subitem3">Subitem3</string>
+    <string name="navigation_subitem4">Subitem4</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_search">Search</string>
+    <string name="text_dismiss">Dismiss</string>
+</resources>
